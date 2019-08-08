@@ -523,7 +523,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="396" />
     <option name="y" value="23" />
     <option name="width" value="1044" />
